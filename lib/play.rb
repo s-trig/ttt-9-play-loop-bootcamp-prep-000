@@ -43,11 +43,3 @@ def play(board)
   pc += 1
 end
 end
-
-
-
-
-
-
-
-
